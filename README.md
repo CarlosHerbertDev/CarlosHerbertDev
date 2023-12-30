@@ -17,4 +17,4 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-Buscando aprender mais a cada dia, desenvolvendo meu conhecimento e experiências profissionais com inruito de ensinar e dar as mesmas opoetunidades recebidas 🔥
+Buscando aprender mais a cada dia, desenvolvendo meu conhecimento e experiências profissionais com intuito de ensinar e dar as mesmas oportunidades recebidas 🔥
