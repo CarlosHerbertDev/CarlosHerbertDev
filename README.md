@@ -1,6 +1,7 @@
 ### Olá, Bem-vindo ao meu perfil! sou Carlos Herbert 👋🏻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-vieira-030325225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:hrbrtvieira@gmail.com)
 
 ![Herbert GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHerbertDev&show_icons=true&theme=dracula)
 
