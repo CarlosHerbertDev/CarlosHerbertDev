@@ -15,7 +15,7 @@ Por isso, nem todas as minhas contribuições aparecem aqui publicamente, mas es
 
 ### 📊 GitHub Stats
 
-![Herbert GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHerbertDev&show_icons=true&theme=dracula&count_private=true)
+![Herbert GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHerbertDev&show_icons=true&theme=dracula&count_private=false)
 
 ## Tecnologias usadas
 
