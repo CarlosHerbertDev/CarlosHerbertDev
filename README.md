@@ -11,18 +11,6 @@ Sou Carlos Herbert — Desenvolvedor em constante evolução 🚀
 Sou apaixonado por tecnologia e estou atualmente atuando como desenvolvedor em uma empresa com repositórios privados.  
 Por isso, nem todas as minhas contribuições aparecem aqui publicamente, mas estou ativo todos os dias com **commits, PRs e entregas reais.**
 
----
-
-### 📊 GitHub Stats
-
-![Herbert GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHerbertDev&show_icons=true&theme=dracula&count_private=false)
-
-## Tecnologias usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHerbertDev&layout=donut-vertical&theme=dracula)
-
----
-
 ### 🛠️ Tecnologias que uso
 
 <div style="display: inline_block"><br/>
