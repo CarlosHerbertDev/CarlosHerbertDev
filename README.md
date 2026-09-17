@@ -11,7 +11,7 @@ Sou Carlos Herbert — Desenvolvedor em constante evolução 🚀
 Sou apaixonado por tecnologia e estou atualmente atuando como desenvolvedor em uma empresa com repositórios privados.  
 Por isso, nem todas as minhas contribuições aparecem aqui publicamente, mas estou ativo todos os dias com **commits, PRs e entregas reais.**
 
-### ⌨️  Commits
+### ⌨️ Status
 
 <div>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlosHerbertDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
