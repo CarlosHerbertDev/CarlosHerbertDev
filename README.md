@@ -13,6 +13,13 @@ Por isso, nem todas as minhas contribuições aparecem aqui publicamente, mas es
 
 ### 🛠️ Tecnologias que uso
 
+<div style="display: inline_block"><br>
+  <a href="https://github.com/CarlosHerbertDev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlosHerbertDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlosHerbertDev&layout=compact&langs_count=8&theme=tokyonight&card_width=350"/>
+  </a>
+</div>
+
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
